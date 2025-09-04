@@ -21,6 +21,8 @@ Alice -> Bob : Hello!
 ```
 ````
 
+this doesn't work now
+
 The source code will be sent to https://www.plantuml.com/plantuml to render the diagram by default. You can also set up your own server by setting the `plantUmlServer` in the [Slidev configuration](../custom/index#headmatter).
 
 Visit the [PlantUML Website](https://plantuml.com/) for more information.
